@@ -43,5 +43,5 @@
 ## 实体-光亮花
 光亮花是王泪中的一个可收集可交互道具，自然生长在地面的洞穴中，玩家可以控制角色采集光亮花存入背包，或者使用武器/弓箭/爆炸等冲击光亮花使其开放，开放后会发出光芒照亮周围区域
 以下为光亮花的相关专利
-<img src="pics\salmon.gif" alt="通天术" width=50%><img src="pics\光亮花-1.png" alt="通天术" width=50%>  
+<img src="pics\光亮花-2.png" alt="通天术" width=50%><img src="pics\光亮花-1.png" alt="通天术" width=50%>  
 根据
