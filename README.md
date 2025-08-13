@@ -5,7 +5,7 @@
 希望我以后也有机会做出高质量的游戏
 
 # About
-I intend to record some content about my favorable video games
-I may collect some Dev information,patent pics or feedback of bugs about them
-and try to make up a few program test thought as well as test examples
+I intend to record some content about my favorable video games  
+I may collect some Dev information,patent pics or feedback of bugs about them  
+and try to make up a few program test thought as well as test examples  
 Hopefully I will have choice to make popular games whenever~
