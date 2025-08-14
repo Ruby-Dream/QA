@@ -4,8 +4,23 @@
 并尝试编写一些测试思路或测试用例
 希望我以后也有机会做出高质量的游戏
 
+---
+## Tears Of The Kingdom\.md
+介绍了几个关于Nintendo Switch平台独占开放世界ARPG游戏《塞尔达传说·王国之泪》相关分析思路及测试用例
+
+## first interview\.md
+记录了第一次面试问题的相关完善补充思路
+
+---
+---
 # About
 I intend to record some content about my favorable video games  
 I may collect some Dev information,patent pics or feedback of bugs about them  
 and try to make up a few program test thought as well as test examples  
 Hopefully I will have choice to make popular games whenever~
+
+## Tears Of The Kingdom\.md
+It introduce some thoughts and program test examples of 《Legend Of The Zelda·Tears Of The Kingdom》,a open-world ARPG game presented by Nintendo and explicited on Nintendo Switch.
+
+## first interview\.md
+It records some thoughts of the question of the first interview.
