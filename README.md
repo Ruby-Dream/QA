@@ -11,7 +11,7 @@
 ## interview\.md
 记录了面试问题的相关完善补充思路
 
-## SPlatoon3\.md
+## Splatoon3\.md
 记录了关于Nintendo Switch平台独占的第三人称射击游戏《Splatoon3》相关分析思路
 
 ---
@@ -23,7 +23,7 @@ and try to make up a few program test thought as well as test examples
 Hopefully I will have choice to make popular games whenever~
 
 ## Tears Of The Kingdom\.md
-It introduce some thoughts and program test examples of 《Legend Of The Zelda·Tears Of The Kingdom》,a open-world ARPG game presented by Nintendo and explicited on Nintendo Switch.
+It introduce some thoughts and test cases of 《Legend Of The Zelda·Tears Of The Kingdom》,a open-world ARPG game presented by Nintendo and explicited on Nintendo Switch.
 
 ## interview\.md
 It records some thoughts of the question of the interview.
