@@ -14,6 +14,9 @@
 ## Splatoon3\.md
 记录了关于Nintendo Switch平台独占的第三人称射击游戏《Splatoon3》相关分析思路
 
+## 崩坏：因缘精灵\.md  
+记录了关于米哈游公司在研的一款冒险+角色养成+自走棋游戏相关内容
+
 ---
 ---
 # About
@@ -23,10 +26,10 @@ and try to make up a few program test thought as well as test examples
 Hopefully I will have choice to make popular games whenever~
 
 ## Tears Of The Kingdom\.md
-It introduce some thoughts and test cases of 《Legend Of The Zelda·Tears Of The Kingdom》,a open-world ARPG game presented by Nintendo and explicited on Nintendo Switch.
+It introduce some thoughts and test cases of 《Legend Of The Zelda·Tears Of The Kingdom》,a open-world ARPG game presented by Nintendo and exclusive on Nintendo Switch.
 
 ## interview\.md
 It records some thoughts of the question of the interview.
 
 ## Splatoon3\.md
-It introduce some thoughts of《Splatoon3》,a Third-person Shooter game presented by Nintendo and explicited on Nintendo Switch.
+It introduce some thoughts of《Splatoon3》,a Third-person Shooter game presented by Nintendo and exclusive on Nintendo Switch.
