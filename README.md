@@ -9,7 +9,7 @@
 介绍了几个关于Nintendo Switch平台独占的开放世界ARPG游戏《塞尔达传说·王国之泪》相关分析思路及测试用例
 
 ## interview\.md
-记录了面试问题的相关完善补充思路
+记录了一些问题的相关完善补充思路
 
 ## Splatoon3\.md
 记录了关于Nintendo Switch平台独占的第三人称射击游戏《Splatoon3》相关分析思路
@@ -32,7 +32,7 @@ Hopefully I will have choice to make popular games whenever~
 It introduce some thoughts and test cases of 《Legend Of The Zelda·Tears Of The Kingdom》,a open-world ARPG game presented by Nintendo and exclusive on Nintendo Switch.
 
 ## interview\.md
-It records some thoughts of the question of the interview.
+It records some thoughts and discussions of the question of the interview.
 
 ## Splatoon3\.md
 It introduce some thoughts of《Splatoon3》,a Third-person Shooter game presented by Nintendo and exclusive on Nintendo Switch.
