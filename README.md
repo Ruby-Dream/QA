@@ -17,6 +17,9 @@
 ## 崩坏：因缘精灵\.md  
 记录了关于米哈游公司在研的一款冒险+角色养成+自走棋游戏相关内容
 
+## bug-丝之歌\.md  
+我真幸运，在玩丝之歌的时候遇到了一些bug导致游戏出现意外错误，在此进行记录和分析
+
 ---
 ---
 # About
@@ -33,3 +36,6 @@ It records some thoughts of the question of the interview.
 
 ## Splatoon3\.md
 It introduce some thoughts of《Splatoon3》,a Third-person Shooter game presented by Nintendo and exclusive on Nintendo Switch.
+
+## bug-丝之歌\.md  
+I'm lucky that I found a few bugs when I played Hollow Knight：Silksong,and I'll save here and analyse.
